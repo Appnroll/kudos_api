@@ -1,0 +1,10 @@
+POST localhost:4000/api
+Content-Type: application/json
+
+{
+  "query": "{ users { id name rating } }"
+}
+
+
+###
+
